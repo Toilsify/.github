@@ -3,7 +3,7 @@
 ![](https://github.com/Toilsify/Toilsify/blob/main/img/img.png)
 
 
-##What we are doing 🙋‍
+## What we are doing 🙋‍
 
 Getting a place to release diabolic substances from the body in an unplanned environment can be really frustrating and embarrassing.
 
@@ -23,4 +23,6 @@ In the future goals, it is planned that the solution will help create affordable
 
 🍿 Fun fact: This idea was generated in a toilet.. 😂
 
-📫 Give us a follow on our social media handles: ![](<a href="https://twitter.com/toilsify"><img align="left" alt="Toilsify on Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" /></a>)
+📫 Give us a follow on our social media handles: 
+
+<a href="https://twitter.com/toilsify"><img align="left" alt="Toilsify on Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" /></a>
